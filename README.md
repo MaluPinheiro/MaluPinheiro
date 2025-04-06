@@ -26,6 +26,6 @@
 
 ## [Contributions]
 
-🔢 Aqui você pode mostrar suas estatísticas com um card do GitHub ou badges:
+🔢 Estatísticas com um card do GitHub ou badges:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurialvs&show_icons=true&theme=dark)
