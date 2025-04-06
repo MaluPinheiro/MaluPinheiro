@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias e ferramentas que uso:
 
-- 💻 `C#` • `JavaScript` • `TypeScript` • `ReactJS`
+- 💻 `C#` • `ASP.NET` • `JavaScript` • `TypeScript` • `ReactJS`
 - 🎨 `Figma`
 - 🧮 `SQL`
 
