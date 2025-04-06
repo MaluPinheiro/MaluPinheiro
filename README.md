@@ -5,7 +5,7 @@
 
 ---
 
-🛠️ ## Tecnologias e ferramentas que uso:
+## 🛠️ Tecnologias e ferramentas que uso:
 
 - 💻 `C#` • `JavaScript` • `TypeScript` • `ReactJS`
 - 🎨 `Figma`
@@ -13,7 +13,7 @@
 
 ---
 
-📫 ## Onde me encontrar:
+## 📫 Onde me encontrar:
 
 - [LinkedIn](https://www.linkedin.com/in/maria-luíza-pinheiro-8b937a248/)
 - [Email](mailto:pinheiromarialuiza150@gmail.com)
