@@ -1,5 +1,5 @@
 
-## [About me]
+## About me
 
 🚀 Sou estágiaria e estudante de Ciência da COmputação. Comprometida com o crescimento profissional e sempre buscando evoluir minhas habilidades para contribuir de forma significativa no campo da tecnologia. Gosto de resolver problemas com criatividade e entusiasmo!
 
