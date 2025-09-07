@@ -20,8 +20,8 @@
 
 ---
 
-## [Contributions]
+## Contributions
 
-🔢 Estatísticas com um card do GitHub ou badges:
+🔢 Estatísticas:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaluPinheiro&show_icons=true&theme=dark&hide_rank=true)
